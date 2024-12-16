@@ -9,11 +9,11 @@
 - 🤝 Open to collaborating on AI projects, data-driven research, and problem-solving initiatives.
 
  🛠️ Skills
- -
-- Programming: Python, SQL, JavaScript
-- Data Analysis: Apache Spark, Time Series (ARIMA), EDA
-- Machine Learning: Neural Networks (CNNs), Predictive Modeling
-- Tools: MySQL, Matplotlib
+-Programming: Python (Advanced), SQL, Java, C++, JavaScript
+-Data Engineering: Redis, MongoDB, RESTful APIs, ETL Pipelines
+-Data Analysis: Apache Spark, Time Series Analysis (ARIMA), Exploratory Data Analysis (EDA), Statistical Testing
+-Machine Learning: Neural Networks (CNNs), Predictive Modeling, Time-Series Forecasting
+-Tools & Frameworks: Flask, SQLAlchemy, Postman, MySQL, Matplotlib, Seaborn
 
 📂 Highlighted Projects
 -
