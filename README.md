@@ -19,6 +19,7 @@
 -
 - Time Series Forecasting: Developed predictive models to analyze trends using ARIMA and advanced statistical techniques.
 - NYC Taxi Trip Analysis: Conducted exploratory, temporal, and geospatial analysis using Apache Spark.
+- To design, implement, and document a robust system of RESTful APIs for managing university-related data, including departments, students, and courses. The project aimed to enhance data accessibility through structured JSON responses, enable efficient storage and retrieval using Redis and MongoDB, and support advanced querying workflows.
 
 🤝 Let’s Connect
 -
