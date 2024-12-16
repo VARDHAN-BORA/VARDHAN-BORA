@@ -4,7 +4,7 @@
 
 🌟 About Me
  -
-- 💡 Currently learning time-series forecasting, web development, and advanced ML techniques.
+- 💡 Currently learning Top AI Tech used in MNC's.
 - 🎯 Actively solving problems on LeetCode and working on innovative projects to bridge theory and practical application.
 - 🤝 Open to collaborating on AI projects, data-driven research, and problem-solving initiatives.
 
