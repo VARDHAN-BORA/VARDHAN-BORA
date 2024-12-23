@@ -61,7 +61,7 @@ I am a passionate **AI Graduate Student** at **Yeshiva University**, combining a
 
 ### 📃 **Automated News Summarization Tool (NLP)**
 - Built a tool to automatically summarize news articles using **Hugging Face Transformers** for **text summarization**.
-- Enhanced the system with **Google Colab** to handle large datasets efficiently.
+- Enhanced the system to handle large datasets efficiently.
 - Integrated **visual analytics** to display summarized content alongside word cloud representations for key themes.
 
 ### 🏫 **University Management System (RESTful APIs)**
