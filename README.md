@@ -70,15 +70,7 @@ I am a passionate **AI Graduate Student** at **Yeshiva University**, combining a
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![VARDHAN-BORA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VARDHAN-BORA&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VARDHAN-BORA&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=VARDHAN-BORA&theme=radical)
-
-</div>
 
 ---
 
